@@ -1,0 +1,43 @@
+.icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search{
+    width: 1000px;
+    background-color: rgb(221, 216, 216);
+    margin: 0 auto;
+    height: 90px;
+}
+.ara{
+    display: block;
+    width: 200px;
+    margin: auto;
+  padding: 1px;
+  text-align: center; 
+}
+p.yazi{
+    text-align: center;
+    padding: 2px;
+}
+.button1{
+    text-align: center;
+    padding: 5px;
+}
+.container{
+    margin: 0 auto;
+    width: 1000px;
+    height: 200px;
+    background-color: aquamarine;
+    margin-top: 5px;
+    
+}
+.box{
+    height: 170px;
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    margin-top: 5px;
+}
+
